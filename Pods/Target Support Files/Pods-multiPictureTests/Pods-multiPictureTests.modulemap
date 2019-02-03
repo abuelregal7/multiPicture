@@ -1,0 +1,6 @@
+framework module Pods_multiPictureTests {
+  umbrella header "Pods-multiPictureTests-umbrella.h"
+
+  export *
+  module * { export * }
+}

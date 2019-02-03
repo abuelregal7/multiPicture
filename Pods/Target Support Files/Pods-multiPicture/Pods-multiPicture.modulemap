@@ -1,0 +1,6 @@
+framework module Pods_multiPicture {
+  umbrella header "Pods-multiPicture-umbrella.h"
+
+  export *
+  module * { export * }
+}
